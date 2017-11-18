@@ -1,0 +1,16 @@
+/*
+ * Lao Sans Pro (Lao) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Phetsarath OT_Bold_0';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Phetsarath OT_Bold_0.ttf')
+}
+
+@font-face {
+  font-family: 'Phetsarath OT_Bold_0';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Phetsarath OT_Bold_0.ttf')
+}
